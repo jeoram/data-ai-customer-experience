@@ -1,94 +1,84 @@
-# Accenture Data & AI Portfolio Project
+# Customer Experience AI Portfolio
 
-Ce projet a été conçu pour correspondre à une offre de poste de Consultant Junior Data & AI chez Accenture Song. Il met en valeur un profil à la fois technique, analytique et orienté business, avec un focus sur l’expérience client, l’intelligence artificielle et la transformation digitale.
+Ce projet a été conçu pour répondre à une offre de poste de Consultant Junior Data & AI chez Accenture Song. Il illustre un profil à la fois technique, analytique et orienté business, avec un focus clair sur l’expérience client, l’intelligence artificielle et la transformation digitale.
 
-## Objectif du projet
+## 🎯 Objectif du projet
 
-Montrer une capacité à :
-- analyser des données métier
-- structurer un cas d’usage concret autour de l’expérience client
-- proposer une solution basée sur l’IA et la data
-- produire des livrables clairs, visuels et exploitables
-- travailler dans une logique client, innovation et impact business
+Ce projet démontre ma capacité à :
+- analyser des données métier liées à l’expérience client
+- transformer un besoin business en cas d’usage concret
+- proposer une approche basée sur la data et l’IA
+- produire des livrables clairs, méthodiques et exploitables
+- travailler dans une logique de création de valeur pour le client
 
-## Proposition de projet
+## 🧠 Proposition de valeur
 
-### Projet : IA Agentique pour l’optimisation de l’expérience client
+### Cas d’usage : IA agentique au service de l’expérience client
 
-Ce projet simule une mission client typique d’Accenture Song : créer un assistant intelligent capable d’améliorer la relation client et l’efficacité opérationnelle.
+Le projet simule une mission client réaliste où un service client doit :
+- réduire le temps de résolution des demandes
+- améliorer la satisfaction client
+- mieux prioriser les interventions à risque
+- détecter rapidement les signaux de friction ou de churn
 
-### Cas d’usage
+L’approche proposée repose sur :
+- une analyse des comportements clients
+- une segmentation des profils clients
+- un scoring de risque client
+- une logique de recommandation et d’assistance intelligente
 
-Un service client souhaite réduire le temps de résolution des demandes, améliorer la satisfaction client et mieux prioriser les interventions.
+## 📊 Ce que le projet contient
 
-L’IA agentique peut aider à :
-- classer automatiquement les demandes clients
-- proposer des réponses ou actions pertinentes
-- détecter les cas sensibles ou à risque
-- générer des recommandations pour les équipes métiers
+- génération d’un dataset client synthétique réaliste
+- analyse exploratoire des données
+- segmentation client via clustering
+- calcul d’un score de risque client
+- visualisations Python interprétables
+- export de résultats pour une exploitation future dans Power BI ou un outil métier
 
-## Livrables du projet
+## 🗂️ Structure du projet
 
-- un notebook ou script Python d’analyse
-- une proposition de solution IA agentique
-- un dashboard de suivi de performance client
-- une documentation claire en anglais et en français
-- un mini rapport de synthèse orienté business
+- data/ : fichiers de données utilisés et générés
+- src/ : scripts Python pour la génération et l’analyse des données
+- outputs/ : graphiques, analyses et résultats exportés
+- main.py : point d’entrée du pipeline
+- requirements.txt : dépendances Python
 
-## Structure du projet
-
-- data/ : données d’exemple ou synthétiques
-- src/ : code Python pour l’analyse et les traitements
-- outputs/ : graphiques, tableaux de bord et rapports
-- notebooks/ : notebooks d’exploration et de démonstration
-- docs/ : documents métier et présentation
-
-## Fonctionnalités prévues
-
-- Analyse exploratoire des données client
-- Préparation et nettoyage des données
-- Segmentation et scoring client
-- Classification de tickets ou demandes
-- Proposition de workflow IA agentique
-- Visualisation de métriques clés
-- Documentation business et technique
-
-## Outils technologiques
+## 🔧 Technologies utilisées
 
 - Python
-- pandas / numpy
+- pandas
+- numpy
 - scikit-learn
-- matplotlib / seaborn
-- Streamlit ou Flask (optionnel)
-- Power BI ou Tableau
+- matplotlib
+- seaborn
 - Git / GitHub
 
-## Exemple de démonstration
+## 📈 Résultats obtenus
 
-Le projet peut montrer :
-- un dashboard de satisfaction client
-- un module de classement automatique des demandes
-- une analyse des principaux facteurs de churn ou de friction
-- une proposition d’agent IA assistant pour les équipes client
+Le pipeline produit actuellement :
+- un dataset client analysable
+- une segmentation des profils clients
+- un score de risque client par segment
+- des visualisations utiles pour une prise de décision rapide
 
-## Pourquoi ce projet correspond à l’offre
+## 🧩 Pourquoi ce projet correspond à l’offre Accenture
 
-Il met en avant les compétences recherchées :
-- data analysis
-- IA / innovation
-- expérience client
-- communication claire
-- travail collaboratif et orienté business
-- capacité à transformer une idée en solution concrète
+Ce projet met en avant plusieurs dimensions importantes du poste recherché :
+- Data & Analytics : analyse de données métier et structuration d’un cas d’usage
+- IA : logique d’automatisation, d’intelligence et de recommandation
+- Customer Experience : centrage sur le client et l’amélioration de l’expérience
+- Business impact : capacité à transformer une problématique en solution concrète
+- Communication : documents et livrables clairs, compréhensibles et orientés décision
 
-## Exemple de structure future
+## 🚀 Perspective d’évolution
 
-Dans une version plus avancée, ce projet peut évoluer vers :
-- un agent IA conversationnel
+Dans une version plus avancée, ce projet pourrait évoluer vers :
+- un assistant IA conversationnel pour le service client
 - une orchestration multi-agent
-- un tableau de bord interactif en Power BI
+- un tableau de bord interactif Power BI
 - une intégration avec un CRM ou un outil de service client
 
-## Auteur
+## 👤 Auteur
 
-Projet de portfolio orienté Data & AI pour répondre à une offre Accenture Song.
+Projet de portfolio orienté Data & AI, conçu pour illustrer un profil junior compatible avec une candidature chez Accenture Song.
