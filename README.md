@@ -1,6 +1,6 @@
 # Customer Experience AI Portfolio
 
-Ce projet a été conçu pour répondre à une offre de poste de Consultant Junior Data & AI chez Accenture Song. Il illustre un profil à la fois technique, analytique et orienté business, avec un focus clair sur l’expérience client, l’intelligence artificielle et la transformation digitale.
+Ce projet a été conçu pour répondre à une porblématique pour un consultant AI.  Il illustre un profil à la fois technique, analytique et orienté business, avec un focus clair sur l’expérience client, l’intelligence artificielle et la transformation digitale.
 
 ## 🎯 Objectif du projet
 
@@ -78,7 +78,3 @@ Dans une version plus avancée, ce projet pourrait évoluer vers :
 - une orchestration multi-agent
 - un tableau de bord interactif Power BI
 - une intégration avec un CRM ou un outil de service client
-
-## 👤 Auteur
-
-Projet de portfolio orienté Data & AI, conçu pour illustrer un profil junior compatible avec une candidature chez Accenture Song.
