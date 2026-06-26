@@ -62,15 +62,6 @@ Le pipeline produit actuellement :
 - un score de risque client par segment
 - des visualisations utiles pour une prise de décision rapide
 
-## 🧩 Pourquoi ce projet correspond à l’offre Accenture
-
-Ce projet met en avant plusieurs dimensions importantes du poste recherché :
-- Data & Analytics : analyse de données métier et structuration d’un cas d’usage
-- IA : logique d’automatisation, d’intelligence et de recommandation
-- Customer Experience : centrage sur le client et l’amélioration de l’expérience
-- Business impact : capacité à transformer une problématique en solution concrète
-- Communication : documents et livrables clairs, compréhensibles et orientés décision
-
 ## 🚀 Perspective d’évolution
 
 Dans une version plus avancée, ce projet pourrait évoluer vers :
