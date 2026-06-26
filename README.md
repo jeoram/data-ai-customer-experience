@@ -1,6 +1,6 @@
 # Customer Experience AI Portfolio
 
-Ce projet a été conçu pour répondre à une porblématique pour un consultant AI.  Il illustre un profil à la fois technique, analytique et orienté business, avec un focus clair sur l’expérience client, l’intelligence artificielle et la transformation digitale.
+Ce projet a été conçu pour répondre à une problématique d'analyse de l'expérience client à l'aide de la data et de l'intelligence artificielle. Il illustre un profil à la fois technique, analytique et orienté business, capable de transformer un besoin métier concret en solution data exploitable.
 
 ## 🎯 Objectif du projet
 
